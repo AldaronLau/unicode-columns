@@ -3,6 +3,11 @@ name = "unicode-columns"
 version = "0.1.0"
 edition = "2021"
 
+description = "Column count and column truncation on strings"
+license = "BSL-1.0"
+documentation = "https://docs.rs/unicode-columns"
+homepage = "https://github.com/AldaronLau/unicode-columns/blob/stable/CHANGELOG.md"
+repository = "https://github.com/AldaronLau/unicode-columns"
 
 [dependencies]
 unicode-width = "0.1"
